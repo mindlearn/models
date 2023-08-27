@@ -1,0 +1,27 @@
+{
+  "name": "@mindlearn/models",
+  "version": "0.0.1",
+  "description": "Pre-Trained MindScript Templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindlearn/models.git"
+  },
+  "keywords": [
+    "ai",
+    "templates",
+    "mindlearn",
+    "models",
+    "ia",
+    "mindscript"
+  ],
+  "author": "MindLearn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindlearn/models/issues"
+  },
+  "homepage": "https://github.com/mindlearn/models#readme"
+}
