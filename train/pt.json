@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "question": ["Qual", "é", "a", "capital", "da", "França", "?"],
+    "answers": [
+      "Paris",
+      "A capital é Paris.",
+      "É Paris."
+    ]
+  },
+  {
+    "id": 2,
+    "question": ["Qual", "é", "2", "+", "2", "?"],
+    "answers": [
+      "4",
+      "O resultado é 4.",
+      "É 4."
+    ]
+  },
+  {
+    "id": 3,
+    "question": ["Qual", "é", "o", "planeta", "maior", "do", "nosso", "sistema", "solar", "?"],
+    "answers": [
+      "Júpiter",
+      "O planeta maior é Júpiter.",
+      "É Júpiter."
+    ]
+  },
+  {
+    "id": 4,
+    "question": ["Quem", "escreveu", "a", "peça", "\"Romeu", "e", "Julieta\"", "?"],
+    "answers": [
+      "William Shakespeare",
+      "\"Romeu e Julieta\" foi escrito por William Shakespeare.",
+      "Foi escrito por William Shakespeare."
+    ]
+  },
+  {
+    "id": 5,
+    "question": ["Qual", "é", "o", "símbolo", "químico", "do", "ouro", "?"],
+    "answers": [
+      "Au",
+      "O símbolo químico do ouro é Au.",
+      "É Au."
+    ]
+  },
+  {
+    "id": 6,
+    "question": ["Qual", "é", "o", "processo", "de", "converter", "água", "em", "vapor", "?"],
+    "answers": [
+      "Evaporação",
+      "O processo chama-se evaporação.",
+      "É evaporação."
+    ]
+  },
+  {
+    "id": 7,
+    "question": ["Quem", "pintou", "a", "Mona", "Lisa", "?"],
+    "answers": [
+      "Leonardo da Vinci",
+      "A Mona Lisa foi pintada por Leonardo da Vinci.",
+      "Foi pintada por Leonardo da Vinci."
+    ]
+  },
+  {
+    "id": 8,
+    "question": ["Qual", "é", "o", "maior", "mamífero", "na", "Terra", "?"],
+    "answers": [
+      "Baleia azul",
+      "O maior mamífero é a baleia azul.",
+      "É a baleia azul."
+    ]
+  },
+  {
+    "id": 9,
+    "question": ["Qual", "é", "o", "símbolo", "do", "elemento", "oxigênio", "?"],
+    "answers": [
+      "O",
+      "O símbolo do oxigênio é O.",
+      "É O."
+    ]
+  },
+  {
+    "id": 10,
+    "question": ["Qual", "é", "a", "moeda", "do", "Japão", "?"],
+    "answers": [
+      "Iene japonês (JPY)",
+      "A moeda do Japão é o iene japonês (JPY).",
+      "É o iene japonês (JPY)."
+    ]
+  },
+  {
+    "id": 11,
+    "question": ["Qual", "é", "a", "velocidade", "da", "luz", "no", "vácuo", "?"],
+    "answers": [
+      "299.792.458 metros por segundo",
+      "A velocidade da luz é 299.792.458 metros por segundo.",
+      "São 299.792.458 metros por segundo."
+    ]
+  },
+  {
+    "id": 12,
+    "question": ["Qual", "é", "o", "ponto", "de", "ebulição", "da", "água", "em", "Celsius", "?"],
+    "answers": [
+      "100°C",
+      "O ponto de ebulição da água é 100 graus Celsius.",
+      "São 100°C."
+    ]
+  },
+  {
+    "id": 13,
+    "question": ["Qual", "é", "a", "montanha", "mais", "alta", "do", "mundo", "?"],
+    "answers": [
+      "Monte Everest",
+      "A montanha mais alta é o Monte Everest.",
+      "É o Monte Everest."
+    ]
+  },
+  {
+    "id": 14,
+    "question": ["Quem", "é", "conhecido", "como", "o", "\"Pai", "da", "Física", "Moderna\"", "?"],
+    "answers": [
+      "Albert Einstein",
+      "O \"Pai da Física Moderna\" é Albert Einstein.",
+      "É Albert Einstein."
+    ]
+  },
+  {
+    "id": 15,
+    "question": ["Qual", "é", "a", "fórmula", "química", "da", "água", "?"],
+    "answers": [
+      "H2O",
+      "A fórmula química da água é H2O.",
+      "É H2O."
+    ]
+  },
+  {
+    "id": 16,
+    "question": ["Qual", "é", "a", "flor", "nacional", "do", "Japão", "?"],
+    "answers": [
+      "Cerejeira",
+      "A flor nacional do Japão é a cerejeira.",
+      "É a cerejeira."
+    ]
+  },
+  {
+    "id": 17,
+    "question": ["Quem", "escreveu", "o", "romance", "\"Orgulho", "e", "Preconceito\"", "?"],
+    "answers": [
+      "Jane Austen",
+      "\"Orgulho e Preconceito\" foi escrito por Jane Austen.",
+      "Foi escrito por Jane Austen."
+    ]
+  },
+  {
+    "id": 18,
+    "question": ["Qual", "é", "o", "número", "primo", "mais", "pequeno", "?"],
+    "answers": [
+      "2",
+      "O número primo mais pequeno é 2.",
+      "É 2."
+    ]
+  },
+  {
+    "id": 19,
+    "question": ["Que", "gás", "as", "plantas", "absorvem", "da", "atmosfera", "durante", "a", "fotossíntese", "?"],
+    "answers": [
+      "Dióxido de carbono (CO2)",
+      "As plantas absorvem dióxido de carbono (CO2) durante a fotossíntese.",
+      "É dióxido de carbono (CO2)."
+    ]
+  },
+  {
+    "id": 20,
+    "question": ["Qual", "é", "o", "oceano", "mais", "extenso", "na", "Terra", "?"],
+    "answers": [
+      "Oceano Pacífico",
+      "O oceano mais extenso é o Oceano Pacífico.",
+      "É o Oceano Pacífico."
+    ]
+  },
+  {
+    "id": 21,
+    "question": ["Qual", "é", "o", "ponto", "de", "congelamento", "da", "água", "em", "Fahrenheit", "?"],
+    "answers": [
+      "32°F",
+      "São 32 graus Fahrenheit.",
+      "O ponto de congelamento é 32°F."
+    ]
+  },
+  {
+    "id": 22,
+    "question": ["Quem", "descobriu", "a", "lei", "da", "gravidade", "?"],
+    "answers": [
+      "Isaac Newton",
+      "A lei da gravidade foi descoberta por Isaac Newton.",
+      "Foi Isaac Newton quem descobriu a lei da gravidade."
+    ]
+  }
+]
