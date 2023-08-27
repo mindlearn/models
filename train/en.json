@@ -1,0 +1,199 @@
+{
+    "id": 1,
+    "question": ["What", "is", "the", "capital", "of", "France", "?"],
+    "answers": [
+      "Paris",
+      "The capital is Paris.",
+      "It's Paris."
+    ]
+  },
+  {
+    "id": 2,
+    "question": ["What", "is", "2", "+", "2", "?"],
+    "answers": [
+      "4",
+      "The result is 4.",
+      "It's 4."
+    ]
+  },
+  {
+    "id": 3,
+    "question": ["What", "is", "the", "largest", "planet", "in", "our", "solar", "system", "?"],
+    "answers": [
+      "Jupiter",
+      "The largest planet is Jupiter.",
+      "It's Jupiter."
+    ]
+  },
+  {
+    "id": 4,
+    "question": ["Who", "wrote", "the", "play", "\"Romeo", "and", "Juliet\"", "?"],
+    "answers": [
+      "William Shakespeare",
+      "\"Romeo and Juliet\" was written by William Shakespeare.",
+      "It was written by William Shakespeare."
+    ]
+  },
+  {
+    "id": 5,
+    "question": ["What", "is", "the", "chemical", "symbol", "for", "gold", "?"],
+    "answers": [
+      "Au",
+      "The chemical symbol for gold is Au.",
+      "It's Au."
+    ]
+  },
+  {
+    "id": 6,
+    "question": ["What", "is", "the", "process", "of", "converting", "water", "into", "vapor", "called", "?"],
+    "answers": [
+      "Evaporation",
+      "The process is called evaporation.",
+      "It's evaporation."
+    ]
+  },
+  {
+    "id": 7,
+    "question": ["Who", "painted", "the", "Mona", "Lisa", "?"],
+    "answers": [
+      "Leonardo da Vinci",
+      "The Mona Lisa was painted by Leonardo da Vinci.",
+      "It was painted by Leonardo da Vinci."
+    ]
+  },
+  {
+    "id": 8,
+    "question": ["What", "is", "the", "largest", "mammal", "on", "Earth", "?"],
+    "answers": [
+      "Blue whale",
+      "The largest mammal is the blue whale.",
+      "It's the blue whale."
+    ]
+  },
+  {
+    "id": 9,
+    "question": ["What", "is", "the", "symbol", "for", "the", "element", "oxygen", "?"],
+    "answers": [
+      "O",
+      "The symbol for oxygen is O.",
+      "It's O."
+    ]
+  },
+  {
+    "id": 10,
+    "question": ["What", "is", "the", "currency", "of", "Japan", "?"],
+    "answers": [
+      "Japanese yen (JPY)",
+      "The currency of Japan is Japanese yen (JPY).",
+      "It's Japanese yen (JPY)."
+    ]
+  },
+  {
+    "id": 11,
+    "question": ["What", "is", "the", "speed", "of", "light", "in", "a", "vacuum", "?"],
+    "answers": [
+      "299,792,458", "meters", "per", "second",
+      "The speed of light is 299,792,458 meters per second.",
+      "It's 299,792,458 meters per second."
+    ]
+  },
+  {
+    "id": 12,
+    "question": ["What", "is", "the", "boiling", "point", "of", "water", "in", "Celsius", "?"],
+    "answers": [
+      "100°C",
+      "The boiling point of water is 100 degrees Celsius.",
+      "It's 100°C."
+    ]
+  },
+  {
+    "id": 13,
+    "question": ["What", "is", "the", "tallest", "mountain", "in", "the", "world", "?"],
+    "answers": [
+      "Mount Everest",
+      "The tallest mountain is Mount Everest.",
+      "It's Mount Everest."
+    ]
+  },
+  {
+    "id": 14,
+    "question": ["Who", "is", "known", "as", "the", "\"Father", "of", "Modern", "Physics\"", "?"],
+    "answers": [
+      "Albert Einstein",
+      "The \"Father of Modern Physics\" is Albert Einstein.",
+      "It's Albert Einstein."
+    ]
+  },
+  {
+    "id": 15,
+    "question": ["What", "is", "the", "chemical", "formula", "for", "water", "?"],
+    "answers": [
+      "H2O",
+      "The chemical formula for water is H2O.",
+      "It's H2O."
+    ]
+  },
+  {
+    "id": 16,
+    "question": ["What", "is", "the", "national", "flower", "of", "Japan", "?"],
+    "answers": [
+      "Cherry blossom",
+      "The national flower of Japan is the cherry blossom.",
+      "It's the cherry blossom."
+    ]
+  },
+  {
+    "id": 17,
+    "question": ["Who", "wrote", "the", "novel", "\"Pride", "and", "Prejudice\"", "?"],
+    "answers": [
+      "Jane Austen",
+      "\"Pride and Prejudice\" was written by Jane Austen.",
+      "It was written by Jane Austen."
+    ]
+  },
+  {
+    "id": 18,
+    "question": ["What", "is", "the", "smallest", "prime", "number", "?"],
+    "answers": [
+      "2",
+      "The smallest prime number is 2.",
+      "It's 2."
+    ]
+  },
+  {
+    "id": 19,
+    "question": ["What", "gas", "do", "plants", "absorb", "from", "the", "atmosphere", "during", "photosynthesis", "?"],
+    "answers": [
+      "Carbon dioxide (CO2)",
+      "Plants absorb carbon dioxide (CO2) during photosynthesis.",
+      "It's carbon dioxide (CO2)."
+    ]
+  },
+  {
+    "id": 20,
+    "question": ["What", "is", "the", "largest", "ocean", "on", "Earth", "?"],
+    "answers": [
+      "Pacific Ocean",
+      "The largest ocean is the Pacific Ocean.",
+      "It's the Pacific Ocean."
+    ]
+  },
+  {
+    "id": 21,
+    "question": ["What", "is", "the", "freezing", "point", "of", "water", "in", "Fahrenheit", "?"],
+    "answers": [
+      "32°F",
+      "It's 32 degrees Fahrenheit.",
+      "The freezing point is 32°F."
+    ]
+  },
+  {
+    "id": 22,
+    "question": ["Who", "discovered", "the", "law", "of", "gravity", "?"],
+    "answers": [
+      "Isaac Newton",
+      "The law of gravity was discovered by Isaac Newton.",
+      "It was Isaac Newton who discovered the law of gravity."
+    ]
+  }
+    ]
